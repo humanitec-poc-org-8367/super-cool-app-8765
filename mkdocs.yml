@@ -1,0 +1,7 @@
+site_name: 'super-cool-app-8765 Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
